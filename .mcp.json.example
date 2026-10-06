@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gong": {
+      "command": "/absolute/path/to/mcp-gong/.venv/bin/gong-mcp-server",
+      "args": []
+    }
+  }
+}
